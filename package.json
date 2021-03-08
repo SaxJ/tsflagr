@@ -1,0 +1,16 @@
+{
+  "name": "tsflagr",
+  "version": "1.0.0",
+  "description": "Swagger generated client for flagr",
+  "main": "./dist/Api.js",
+  "repository": "git@github.com:SaxJ/tsflagr.git",
+  "author": "Saxon Jensen <saxon.jensen@healthengine.com.au>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": ["README.md", "dist"]
+}
